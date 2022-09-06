@@ -2,3 +2,4 @@
 * [自顶向下学React源码学习笔记2 React新老架构](https://github.com/murrrrphy/blog/issues/6#issue-1359655478)
 * [自顶向下学React源码学习笔记3 Fiber架构](https://github.com/murrrrphy/blog/issues/7#issue-1359810385)
 * [自顶向下学React源码学习笔记4 React源码结构](https://github.com/murrrrphy/blog/issues/9#issue-1361116238)
+* [自顶向下学React源码学习笔记5 深入理解JSX](https://github.com/murrrrphy/blog/issues/10#issue-1361133990)
