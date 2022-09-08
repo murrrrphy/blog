@@ -4,3 +4,5 @@
 * [自顶向下学React源码学习笔记4 React源码结构](https://github.com/murrrrphy/blog/issues/9#issue-1361116238)
 * [自顶向下学React源码学习笔记5 深入理解JSX](https://github.com/murrrrphy/blog/issues/10#issue-1361133990)
 * [自顶向下学React源码学习笔记6 render阶段流程](https://github.com/murrrrphy/blog/issues/11#issue-1363398398)
+* [自顶向下学React源码学习笔记7 render“递”阶段beginWork](https://github.com/murrrrphy/blog/issues/12#issue-1364712105)
+* [自顶向下学React源码学习笔记8 render“归”阶段completeWork](https://github.com/murrrrphy/blog/issues/13#issue-1364761786)
